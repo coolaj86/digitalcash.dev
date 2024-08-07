@@ -1,13 +1,13 @@
-title: "AJ ONeal"
+title: "DigitalCash.dev"
 theme: "eon"
-baseURL: "https://coolaj86.github.io/digitalcash.dev"
+baseURL: "https://digitalcash.dev"
 #baseURL: 'http://localhost:8801'
 # for multiple authors, see
 # https://discourse.gohugo.io/t/site-author-usage/31459/8?u=coolaj86
 Author:
   name: "AJ ONeal"
   email: "aj@therootcompany.com"
-copyright: "© AJ ONeal"
+copyright: "© Dash Developers"
 languageCode: "en-us"
 
 Params:
