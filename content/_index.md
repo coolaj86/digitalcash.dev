@@ -1,5 +1,5 @@
 ---
-hero_title: Hello world.
+hero_title: Integration Resources
 ---
 
-Hi. I do tech stuff.
+- [Proposals](/proposals/)
